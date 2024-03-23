@@ -36,9 +36,9 @@ print("Square root of the number:",newton_method(inp))
 
 ```
 
-## Output:
-![Screenshot 2024-03-23 110429](https://github.com/sarishvarshan/Square-root-of-a-number/assets/152167665/c633627a-bce8-402a-b220-fb3b146adfde)
+## Output: 
 
+![Screenshot 2024-03-23 110429](https://github.com/sarishvarshan/Square-root-of-a-number/assets/152167665/6ea7ec36-93e1-49b4-ab24-852ab766246d)
 
 
 
