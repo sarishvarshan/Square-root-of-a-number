@@ -22,6 +22,7 @@ Developed by: Sarish Varshan V
 RegisterNumber: 212223230196 
 */
 ```
+```
 def newton_method(number,iterations=100):
 
     for i in range(iterations):
@@ -37,8 +38,7 @@ print("Square root of the number:",newton_method(inp))
 ```
 
 ## Output: 
-
-  ![Screenshot 2024-03-22 085851](https://github.com/sarishvarshan/Square-root-of-a-number/assets/152167665/1fb07f43-7f24-4ff1-929a-93bb2f615d09)
+ ![Screenshot 2024-03-22 085851](https://github.com/sarishvarshan/Square-root-of-a-number/assets/152167665/1fb07f43-7f24-4ff1-929a-93bb2f615d09)
 
 
 ## Result:
