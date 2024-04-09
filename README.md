@@ -15,13 +15,13 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-```
+
 /*
 Program to find the square root for the given number(newton's method) using function.
 Developed by: Sarish Varshan V
 RegisterNumber: 212223230196 
 */
-```
+
 ```
 def newton_method(number,iterations=100):
 
