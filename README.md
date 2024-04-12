@@ -8,16 +8,11 @@ To write a program to find the square root of a number.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-### step 1:
-Define a function.
-### step 2:
-Assign number_iters = 100 in the function to perform 100 iteratios.
-### step 3:
-Set i = 0.
-### step 4:
-Calculate  number = 0.5 * (number + a / number) for 100 iterations.
-### step 5:
-Return number
+1. Define a function.
+2. Assign number_iters = 100 in the function to perform 100 iteratios.
+3. Set i = 0.
+4. Calculate number = 0.5 * (number + a / number) for 100 iterations.
+5. Return number
 
 ## Program:
 
